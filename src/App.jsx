@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import WorkSection from './components/WorkSection'
+import Navbar from './components/Navbar.jsx'
+import Hero from './components/Hero.jsx'
+import WorkSection from './components/WorkSection.jsx'
 
 function App() {
   return (
