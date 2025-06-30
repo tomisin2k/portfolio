@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import WorkSection from './components/WorkSection.jsx'
+import Testimonial from './components/Testimonial.jsx'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Navbar />
       <Hero />
       <WorkSection />
+      <Testimonial />
     </div>
   )
 }

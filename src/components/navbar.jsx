@@ -45,7 +45,7 @@ const Navbar = () => {
   };
 
   const logoStyle = {
-    fontSize: '20px',
+    fontSize: '30px',
     fontWeight: '700',
     color: '#ffffff',
     letterSpacing: '2px',
